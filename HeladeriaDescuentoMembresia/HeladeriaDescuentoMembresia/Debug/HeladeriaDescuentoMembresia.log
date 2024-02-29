@@ -1,0 +1,5 @@
+﻿  HeladeriaDescuentoMembresia.cpp
+C:\Users\pablo\OneDrive\Documentos\INA\Desarrollo de aplicaciones\PracticaC++\validacionesIfC++\HeladeriaDescuentoMembresia\HeladeriaDescuentoMembresia\HeladeriaDescuentoMembresia.cpp(30,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\pablo\OneDrive\Documentos\INA\Desarrollo de aplicaciones\PracticaC++\validacionesIfC++\HeladeriaDescuentoMembresia\HeladeriaDescuentoMembresia\HeladeriaDescuentoMembresia.cpp(33,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\pablo\OneDrive\Documentos\INA\Desarrollo de aplicaciones\PracticaC++\validacionesIfC++\HeladeriaDescuentoMembresia\HeladeriaDescuentoMembresia\HeladeriaDescuentoMembresia.cpp(36,25): warning C4305: '=': truncation from 'double' to 'float'
+  HeladeriaDescuentoMembresia.vcxproj -> C:\Users\pablo\OneDrive\Documentos\INA\Desarrollo de aplicaciones\PracticaC++\validacionesIfC++\HeladeriaDescuentoMembresia\Debug\HeladeriaDescuentoMembresia.exe
