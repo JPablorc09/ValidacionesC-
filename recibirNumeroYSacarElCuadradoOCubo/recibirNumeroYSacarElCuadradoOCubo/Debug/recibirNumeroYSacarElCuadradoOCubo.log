@@ -1,0 +1,5 @@
+﻿  recibirNumeroYSacarElCuadradoOCubo.cpp
+C:\Users\pablo\source\repos\recibirNumeroYSacarElCuadradoOCubo\recibirNumeroYSacarElCuadradoOCubo\recibirNumeroYSacarElCuadradoOCubo.cpp(19,24): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\pablo\source\repos\recibirNumeroYSacarElCuadradoOCubo\recibirNumeroYSacarElCuadradoOCubo\recibirNumeroYSacarElCuadradoOCubo.cpp(23,24): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\pablo\source\repos\recibirNumeroYSacarElCuadradoOCubo\recibirNumeroYSacarElCuadradoOCubo\recibirNumeroYSacarElCuadradoOCubo.cpp(27,24): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  recibirNumeroYSacarElCuadradoOCubo.vcxproj -> C:\Users\pablo\source\repos\recibirNumeroYSacarElCuadradoOCubo\Debug\recibirNumeroYSacarElCuadradoOCubo.exe
