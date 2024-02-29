@@ -1,2 +1,2 @@
-# ValidacionesC-
+# ValidacionesC++
 practicando validaciones c++
